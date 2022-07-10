@@ -14,6 +14,3 @@ gameModes <- list("東風戦" = "east", "半荘戦" = "south")
 
 scoreFilePath <- "./data/score.csv"
 rateFilePath <- "./data/rate.csv"
-
-a <- NULL
-b <- NULL
